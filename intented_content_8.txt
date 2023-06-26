@@ -1,0 +1,390 @@
+{
+  "players": [
+    {
+      "name": "Dan ",
+      "role": "Jungle",
+      "points": 13.342666666666666,
+      "salary": 180000
+    },
+    {
+      "name": "Jenax",
+      "role": "Top",
+      "points": 18.561333333333334,
+      "salary": 230000
+    },
+    {
+      "name": "P1noy",
+      "role": "Bot",
+      "points": 0.0,
+      "salary": 170000
+    },
+    {
+      "name": "Wunder",
+      "role": "Top",
+      "points": 23.418666666666663,
+      "salary": 290000
+    },
+    {
+      "name": "Hirit",
+      "role": "Top",
+      "points": 16.854666666666667,
+      "salary": 190000
+    },
+    {
+      "name": "Milica",
+      "role": "Mid",
+      "points": 17.448,
+      "salary": 260000
+    },
+    {
+      "name": "Abbedagge",
+      "role": "Mid",
+      "points": 18.790666666666667,
+      "salary": 270000
+    },
+    {
+      "name": "Trymbi",
+      "role": "Support",
+      "points": 14.289333333333335,
+      "salary": 130000
+    },
+    {
+      "name": "Inspired",
+      "role": "Jungle",
+      "points": 22.330666666666666,
+      "salary": 310000
+    },
+    {
+      "name": "Patrik",
+      "role": "Bot",
+      "points": 18.644,
+      "salary": 230000
+    },
+    {
+      "name": "Neon",
+      "role": "Bot",
+      "points": 20.461333333333332,
+      "salary": 270000
+    },
+    {
+      "name": "Kaiser",
+      "role": "Support",
+      "points": 15.250666666666667,
+      "salary": 110000
+    },
+    {
+      "name": "Jezu",
+      "role": "Bot",
+      "points": 23.884,
+      "salary": 260000
+    },
+    {
+      "name": "Razork",
+      "role": "Jungle",
+      "points": 21.688,
+      "salary": 220000
+    },
+    {
+      "name": "Rekkles",
+      "role": "Bot",
+      "points": 35.168,
+      "salary": 340000
+    },
+    {
+      "name": "Humanoid",
+      "role": "Mid",
+      "points": 20.45066666666667,
+      "salary": 300000
+    },
+    {
+      "name": "Carzzy",
+      "role": "Bot",
+      "points": 21.202666666666666,
+      "salary": 300000
+    },
+    {
+      "name": "Vander",
+      "role": "Support",
+      "points": 12.930666666666665,
+      "salary": 60000
+    },
+    {
+      "name": "Larssen",
+      "role": "Mid",
+      "points": 27.688000000000002,
+      "salary": 330000
+    },
+    {
+      "name": "Selfmade",
+      "role": "Jungle",
+      "points": 23.299999999999997,
+      "salary": 300000
+    },
+    {
+      "name": "Elyoya",
+      "role": "Jungle",
+      "points": 24.212,
+      "salary": 290000
+    },
+    {
+      "name": "Gilius",
+      "role": "Jungle",
+      "points": 13.639999999999999,
+      "salary": 250000
+    },
+    {
+      "name": "MagiFelix",
+      "role": "Mid",
+      "points": 18.325000000000003,
+      "salary": 220000
+    },
+    {
+      "name": "Jeskla",
+      "role": "Bot",
+      "points": 18.576,
+      "salary": 240000
+    },
+    {
+      "name": "Treatz",
+      "role": "Support",
+      "points": 15.150666666666666,
+      "salary": 90000
+    },
+    {
+      "name": "WhiteKnight",
+      "role": "Top",
+      "points": 14.915999999999997,
+      "salary": 170000
+    },
+    {
+      "name": "Comp",
+      "role": "Bot",
+      "points": 14.72,
+      "salary": 180000
+    },
+    {
+      "name": "Vetheo",
+      "role": "Mid",
+      "points": 19.951999999999998,
+      "salary": 240000
+    },
+    {
+      "name": "Hylissang",
+      "role": "Support",
+      "points": 11.572000000000001,
+      "salary": 110000
+    },
+    {
+      "name": "Jankos",
+      "role": "Jungle",
+      "points": 27.222666666666665,
+      "salary": 320000
+    },
+    {
+      "name": "Nisqy",
+      "role": "Mid",
+      "points": 21.542666666666666,
+      "salary": 310000
+    },
+    {
+      "name": "Bwipo",
+      "role": "Top",
+      "points": 20.402666666666672,
+      "salary": 260000
+    },
+    {
+      "name": "Upset",
+      "role": "Bot",
+      "points": 29.378666666666668,
+      "salary": 310000
+    },
+    {
+      "name": "Agresivoo",
+      "role": "Top",
+      "points": 0.0,
+      "salary": 130000
+    },
+    {
+      "name": "Skeanz",
+      "role": "Jungle",
+      "points": 16.941333333333336,
+      "salary": 240000
+    },
+    {
+      "name": "LiMiT",
+      "role": "Support",
+      "points": 10.532000000000002,
+      "salary": 80000
+    },
+    {
+      "name": "Mikyx",
+      "role": "Support",
+      "points": 17.567999999999998,
+      "salary": 150000
+    },
+    {
+      "name": "Tore",
+      "role": "Support",
+      "points": 8.052000000000001,
+      "salary": 50000
+    },
+    {
+      "name": "Hans Sama",
+      "role": "Bot",
+      "points": 31.308,
+      "salary": 330000
+    },
+    {
+      "name": "Armut",
+      "role": "Top",
+      "points": 19.625333333333334,
+      "salary": 250000
+    },
+    {
+      "name": "Caps",
+      "role": "Mid",
+      "points": 28.814666666666668,
+      "salary": 340000
+    },
+    {
+      "name": "Blue",
+      "role": "Mid",
+      "points": 19.302666666666667,
+      "salary": 250000
+    },
+    {
+      "name": "Crownshot",
+      "role": "Bot",
+      "points": 22.905,
+      "salary": 290000
+    },
+    {
+      "name": "Zanzarah",
+      "role": "Jungle",
+      "points": 12.729333333333335,
+      "salary": 200000
+    },
+    {
+      "name": "Szygenda",
+      "role": "Top",
+      "points": 12.625333333333334,
+      "salary": 200000
+    },
+    {
+      "name": "TynX",
+      "role": "Jungle",
+      "points": 19.08266666666666,
+      "salary": 260000
+    },
+    {
+      "name": "Broken Blade",
+      "role": "Top",
+      "points": 14.829333333333334,
+      "salary": 210000
+    },
+    {
+      "name": "Odoamne",
+      "role": "Top",
+      "points": 19.765333333333334,
+      "salary": 270000
+    },
+    {
+      "name": "Labrov",
+      "role": "Support",
+      "points": 7.848000000000001,
+      "salary": 80000
+    },
+    {
+      "name": "denyk",
+      "role": "Support",
+      "points": 0.0,
+      "salary": 30000
+    },
+    {
+      "name": "Czekolad",
+      "role": "Mid",
+      "points": 14.373333333333333,
+      "salary": 210000
+    },
+    {
+      "name": "Kryze",
+      "role": "Top",
+      "points": 14.887999999999998,
+      "salary": 160000
+    },
+    {
+      "name": "Kobbe",
+      "role": "Bot",
+      "points": 22.131999999999998,
+      "salary": 250000
+    },
+    {
+      "name": "Promisq",
+      "role": "Support",
+      "points": 8.04,
+      "salary": 60000
+    }
+  ],
+  "teams": [
+    {
+      "name": "Misfits Gaming",
+      "role": "Team",
+      "points": 17.2,
+      "salary": 210000
+    },
+    {
+      "name": "FC Schalke 04",
+      "role": "Team",
+      "points": 14.933333333333334,
+      "salary": 230000
+    },
+    {
+      "name": "Rogue",
+      "role": "Team",
+      "points": 21.866666666666667,
+      "salary": 300000
+    },
+    {
+      "name": "Team Vitality",
+      "role": "Team",
+      "points": 15.866666666666667,
+      "salary": 250000
+    },
+    {
+      "name": "Fnatic",
+      "role": "Team",
+      "points": 19.8,
+      "salary": 280000
+    },
+    {
+      "name": "MAD Lions",
+      "role": "Team",
+      "points": 20.533333333333335,
+      "salary": 270000
+    },
+    {
+      "name": "G2 Esports",
+      "role": "Team",
+      "points": 25.933333333333334,
+      "salary": 310000
+    },
+    {
+      "name": "SK Gaming",
+      "role": "Team",
+      "points": 14.4,
+      "salary": 240000
+    },
+    {
+      "name": "Astralis",
+      "role": "Team",
+      "points": 12.333333333333334,
+      "salary": 190000
+    },
+    {
+      "name": "exceL eSports",
+      "role": "Team",
+      "points": 12.933333333333334,
+      "salary": 170000
+    }
+  ]
+}

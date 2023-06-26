@@ -16,7 +16,7 @@ def cap_roles_rule(model):
     return sum(model.Roles[i] * model.x[i] for i in model.Items) == 111111
 
 
-def buildmodel(n, budget, limit_roles, roles, points, weights):
+def build_model(n, budget, limit_roles, roles, points, weights):
     # Model
     model = ConcreteModel()
     # sets
@@ -45,9 +45,9 @@ def cap_points_rule(model):
     return sum(model.Profits[i] * model.x[i] for i in model.Items) <= model.PointsCap
 
 
-def buildmodel2(n, budget, limit_roles, roles, points, weights, temp_points):
+def build_model_2(n, budget, limit_roles, roles, points, weights, temp_points):
     # Model
-    model = buildmodel(n, budget, limit_roles, roles, points, weights)
+    model = build_model(n, budget, limit_roles, roles, points, weights)
     # another param
     model.PointsCap = temp_points - 0.001
     # another constraint
